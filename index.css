@@ -1,0 +1,125 @@
+/*element du container1*/
+.containe1{
+	width:100%;
+	background-color:white;
+}
+.row1{width:50%;}
+.row2{width:50%;}
+
+.container2{
+	width:100%;
+	display:inline-block;
+	background-color:white;
+	/*le margin top ne marche pas,a revoir*/
+
+}	
+.row3{
+	width:25%;
+	float:left;
+	
+
+}
+.row4{
+	width:25%;
+	float:left;
+	
+}
+.row5{
+	width:25%;
+	float:left;
+	
+}
+.row6{
+	width:25%;
+	float:left;
+}
+.container3{
+	width: 100%;
+	display:inline-block;
+	background-color:grey;
+}
+.row7{
+	width:50%;
+	float:left;
+
+}
+.row8{
+	width:50%;
+	float: left;
+
+}
+.container4{
+	display: inline;
+	width: 100%;
+}
+.row9{
+	float:left;
+	width:50%;
+
+}
+.row10{
+	float:left;
+	width:25%;
+}
+
+.row11{
+	float:left;
+	width:25%;
+
+}
+.container5{
+	width:100%;
+	display:inline-block;
+	background-color:white;
+
+}
+.row12{
+	width:33.33%;
+	float:left;
+
+}
+.row13{
+	width:33.33%;
+	float:left;
+
+}
+.row14{
+	width:33.33%;
+	float:left;
+
+}
+@media(max-width:679px){
+	.container1{width:95%;}
+	.row1{width:100%;}
+	.row2{width:100%;}
+	.container2{width:95%;}
+	.row3{width:100%;}
+	.row4{width:100%;}
+	.row5{width:100%;}
+	.row6{width:100%;}
+	.contenair3{width:95%;}
+	.row7{width:100%;}
+	.row8{width:100%;}
+	.container4{width:95%}
+	.row9{width:100%;}
+	.row10{width:100%;}
+	.row11{width:100%;}
+	.container5{width:95%}
+	.row12{width:100%;}
+	.row13{width:100%;}
+	.row14{width:100%;}
+
+
+}
+
+
+
+
+
+
+
+/* fin element du container*/
+
+
+
+
